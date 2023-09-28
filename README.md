@@ -1,3 +1,3 @@
-# segundo-repositorio
+### segundo-repositorio - PI
 
-Teste de alteração
+# Repositório dedicado as aulas de Pesquisa e inovação!

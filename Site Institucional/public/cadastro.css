@@ -4,6 +4,10 @@ body{
 .header{
     height: 9%;
 }
+.header{
+    align-items: flex-end;
+    display: flex;
+}
 .banner{
     height: 80%;
 }
